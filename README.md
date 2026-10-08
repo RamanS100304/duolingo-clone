@@ -2,7 +2,8 @@
 
 A full-stack clone of Duolingo's lesson loop and gamification: a learning path with locked, available and completed skills, a lesson player with 5 exercise types, XP, streaks, hearts, a daily goal, quests, leaderboards, achievements, a mock shop and practice modes. The seeded course teaches **English to Hindi speakers**: instructions and prompts are in Hindi, answers are in English, as in Duolingo's real course.
 
-Live demo: https://duolingo-clone-raman-f16f.vercel.app/ · API docs: duolingo-clone-api-production.up.railway.app/docs
+Live demo: https://duolingo-clone-raman-f16f.vercel.app/ 
+API docs: https://duolingo-clone-api-production.up.railway.app/docs
 
 | Learning path | Lesson feedback | Lesson complete |
 |---|---|---|
